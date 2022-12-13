@@ -12,6 +12,7 @@
     width: 86%;
     margin: auto;
     flex-direction: column;
+    margin-bottom: 73px;
 }
 
 @media (max-width: 820px) {
